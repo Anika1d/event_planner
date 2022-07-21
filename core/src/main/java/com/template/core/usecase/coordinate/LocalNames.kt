@@ -1,0 +1,33 @@
+package com.template.core.usecase.coordinate
+
+data class LocalNames(
+    val ar: String,
+    val be: String,
+    val ca: String,
+    val cs: String,
+    val da: String,
+    val de: String,
+    val en: String,
+    val es: String,
+    val et: String,
+    val fi: String,
+    val fr: String,
+    val hi: String,
+    val hr: String,
+    val hu: String,
+    val `it`: String,
+    val ja: String,
+    val kn: String,
+    val ko: String,
+    val lt: String,
+    val nl: String,
+    val pl: String,
+    val ro: String,
+    val ru: String,
+    val sk: String,
+    val sl: String,
+    val sv: String,
+    val tr: String,
+    val uk: String,
+    val zh: String
+)
